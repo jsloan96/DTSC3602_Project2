@@ -1,0 +1,6 @@
+openpyxl
+xgboost==1.7.1
+statsmodels==0.13.5
+imblearn==0.0
+dabl
+kaleido
